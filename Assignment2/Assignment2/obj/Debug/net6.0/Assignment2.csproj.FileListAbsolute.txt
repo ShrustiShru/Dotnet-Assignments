@@ -1,0 +1,15 @@
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.exe
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.dll
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.dll
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Users\91636\Dropbox\Desktop\C#\Assignment2\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
