@@ -1,7 +1,0 @@
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\bin\Debug\AssignmentDisconnected.cs.exe.config
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\bin\Debug\AssignmentDisconnected.cs.exe
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\bin\Debug\AssignmentDisconnected.cs.pdb
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\obj\Debug\AssignmentDisconnected.cs.csprojAssemblyReference.cache
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\obj\Debug\AssignmentDisconnected.cs.csproj.CoreCompileInputs.cache
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\obj\Debug\AssignmentDisconnected.cs.exe
-D:\StarmarkShru\Dotnet Programming\Week 6\Day 3\AssignmentDisconnected.cs\AssignmentDisconnected.cs\obj\Debug\AssignmentDisconnected.cs.pdb
